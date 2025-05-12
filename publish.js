@@ -52,7 +52,9 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-    'https://91websp.github.io'
+	'https://91websp.github.io',
+	'https://91vx1.pages.dev',
+	'https://91vx.netlify.app',
 ];
 var foreverUrls = [
     'https://91vx.com'
