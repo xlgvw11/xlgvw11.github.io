@@ -123,7 +123,7 @@ window.onload = function () {
     var logoElem = document.createElement('div');
     logoElem.setAttribute('class', 'brand');
     logoElem.setAttribute('id', 'logo');
-    logoElem.innerHTML = ' <img src="logo.png"  width="180"/>'
+    logoElem.innerHTML = ' <img src="logo.png"  width="180" style="margin-bottom: 10px;"/>'
     mainElem.appendChild(logoElem);
 
     //收藏  ‘<br /> \n <br /> <br /> 按 <font color=red><b>Ctrl+D</b></font> 收藏此页，永不迷路
