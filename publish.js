@@ -36,19 +36,19 @@ var emails = [
     'sqhub3678@gmail.com'
 ];
 
-var urls=[];
-       urls.push("..ojhdquyn.xyz"); 
-        urls.push(".nmwcauk.xyz");   
-        urls.push(".iwsndnr.xyz");   
-        urls.push(".eogixfo.xyz");              
-                                                                                                                                                      
+var urls=[
+	'ojhdquyn1.xyz',
+	'ojhdquyn2.xyz',
+	'ojhdquyn3.xyz',
+];
+                                                                                                                  
 var JumpPage="https://91wang75.com";
 
 var newestUrls = [];
 
 
 for(var i =0;i<urls.length*3;i++){
-    newestUrls.push( 'https://' + getRandomSubdomain() +urls[randomNum(0,urls.length-1)]);
+    newestUrls.push( 'https://' + getRandomSubdomain() +'.' + urls[randomNum(0,urls.length-1)]);
 }
 
 var otherUrls = [
