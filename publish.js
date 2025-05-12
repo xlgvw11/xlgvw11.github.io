@@ -66,11 +66,7 @@ var otherUrls = [
     'https://dizhi8.netlify.app'
 ];
 var foreverUrls = [
-	'https://91porna.com',
-	JumpPage,
-	'https://91porn.fun',
-	'https://91pornvideo.com',
-    'https://91pornforum.com'
+    'https://91vx.com'
 ];
 var notices = [
     '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。',
