@@ -51,19 +51,8 @@ for(var i =0;i<urls.length*3;i++){
     newestUrls.push( 'https://' + getRandomSubdomain() +urls[randomNum(0,urls.length-1)]);
 }
 
-// var newestUrls = [
-//     'https://' + getRandomSubdomain() + '.vikxddcy.org',    
-//     'https://' + getRandomSubdomain() + '.vikxddcy.org',
-//     'https://' + getRandomSubdomain() + '.vikxddcy.org',    
-//     'https://' + getRandomSubdomain() + '.vildiho.cc',
-// 	'https://' + getRandomSubdomain() + '.vildiho.cc',    
-//     'https://' + getRandomSubdomain() + '.vildiho.cc'
-// ];
 var otherUrls = [
-    'https://gitlab.com/dizhi8',
-    'https://dizhi8.pages.dev',
-    'https://dizhi33.github.io',
-    'https://dizhi8.netlify.app'
+    'https://91websp.github.io'
 ];
 var foreverUrls = [
     'https://91vx.com'
