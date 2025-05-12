@@ -42,7 +42,7 @@ var urls=[
 	'ojhdquyn3.xyz',
 ];
                                                                                                                   
-var JumpPage="https://91wang75.com";
+var JumpPage="https://91sos.com";
 
 var newestUrls = [];
 
