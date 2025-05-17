@@ -57,7 +57,7 @@ var otherUrls = [
 	'https://91vx.netlify.app',
 ];
 var foreverUrls = [
-    'https://91vx.com',JumpPage
+    'https://91si.com',JumpPage
 ];
 var notices = [
     '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。',
