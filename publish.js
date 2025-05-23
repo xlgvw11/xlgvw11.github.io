@@ -33,7 +33,7 @@ function getRandomString() {
     return result;
 }
 var emails = [
-    'sqhub3678@gmail.com'
+    '91nantong@gmail.com'
 ];
 
 var urls=[
@@ -42,7 +42,7 @@ var urls=[
 	'wdzdtxcu.xyz',
 ];
                                                                                                                   
-var JumpPage="https://91sos.com";
+var JumpPage="https://91nt.com";
 
 var newestUrls = [];
 
@@ -52,12 +52,12 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://91websp.github.io',
+	'https://91nantong.github.io',
 	'https://91vx1.pages.dev',
 	'https://91vx.netlify.app',
 ];
 var foreverUrls = [
-    'https://91si.com',JumpPage
+    'https://91nt.com',JumpPage
 ];
 var notices = [
     '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。',
@@ -132,7 +132,7 @@ window.onload = function () {
     var newFavoritesElem =  createFieldElem({title: '<font color=red><b>Ctrl+D</b></font> 收藏此页，永不迷路', items: ""});
     mainElem.appendChild(newFavoritesElem);
     // newest urls
-    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问91视频'});
+    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问男同网'});
     mainElem.appendChild(newestFieldElem);
 
     // other urls
