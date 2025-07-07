@@ -50,7 +50,9 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://91nantong.github.io',
+	'xlgvw11.github.io',
+	'xlgvw11.pages.dev',
+	'xlgvw11.netlify.app',
 ];
 var foreverUrls = [
     'https://xlspw.me',JumpPage
