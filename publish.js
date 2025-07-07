@@ -33,14 +33,14 @@ function getRandomString() {
     return result;
 }
 var emails = [
-    '91nantong@gmail.com'
+    'shipinxiaolan@gmail.com'
 ];
 
 var urls=[
-	'ecbyytaf.cc',
+	'unqgilop.xyz',
 ];
                                                                                                                   
-var JumpPage="https://91nt.com";
+var JumpPage="https://xlgvw.com";
 
 var newestUrls = [];
 
@@ -53,7 +53,7 @@ var otherUrls = [
 	'https://91nantong.github.io',
 ];
 var foreverUrls = [
-    'https://91nt.net',JumpPage
+    'https://xlspw.me',JumpPage
 ];
 var notices = [
     '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。',
@@ -128,7 +128,7 @@ window.onload = function () {
     var newFavoritesElem =  createFieldElem({title: '<font color=red><b>Ctrl+D</b></font> 收藏此页，永不迷路', items: ""});
     mainElem.appendChild(newFavoritesElem);
     // newest urls
-    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问男同网'});
+    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问小蓝视频网'});
     mainElem.appendChild(newestFieldElem);
 
     // other urls
