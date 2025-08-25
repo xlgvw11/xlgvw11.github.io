@@ -37,13 +37,13 @@ var emails = [
 ];
 
 var urls=[
-        'eijaxqn.club',
-	'noqzqel.cc',
-        'jzvezfy.top',
+        'ipxylbh.cc',
+	    'ttglxkf.top',
+        'vrxtoqp.cc',
      
 ];
                                                                                                                   
-var JumpPage="https://oxuwvmf.top";
+var JumpPage="https://xlgvw3.com";
 
 var newestUrls = [];
 
