@@ -37,13 +37,13 @@ var emails = [
 ];
 
 var urls=[
-        'fsinspic.cc',
-	    'ipxylbh.cc',
-        'ttglxkf.top',
+        'kbuvpjtb.cc',
+	    'fsinspic.cc',
+        'ipxylbh.cc',
      
 ];
                                                                                                                   
-var JumpPage="https://xlgvw3.com";
+var JumpPage="https://xlgvw4.com";
 
 var newestUrls = [];
 
