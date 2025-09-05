@@ -37,13 +37,13 @@ var emails = [
 ];
 
 var urls=[
-        'eopcmbk.com',
-	    'kbuvpjtb.cc',
-        'ipxylbh.cc',
+        'eibkvww.cc',
+	    'eopcmbk.com',
+        'kbuvpjtb.cc',
      
 ];
                                                                                                                   
-var JumpPage="https://xlgvw4.com";
+var JumpPage="https://xlgvw5.com";
 
 var newestUrls = [];
 
