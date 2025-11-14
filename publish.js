@@ -37,13 +37,13 @@ var emails = [
 ];
 
 var urls=[
-        'dkfxksq.cc',
-	    'sldxrsyy.cc',
-        'crseexq.com',
+        'hkmabpp.cc',
+	    'dkfxksq.cc',
+        'sldxrsyy.cc',
      
 ];
                                                                                                                   
-var JumpPage="https://xlgv16.com";
+var JumpPage="https://xlgv17.com";
 
 var newestUrls = [];
 
