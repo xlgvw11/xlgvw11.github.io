@@ -43,7 +43,7 @@ var urls=[
      
 ];
                                                                                                                   
-var JumpPage="https://xlgv17.com";
+var JumpPage="https://xlgv18.com";
 
 var newestUrls = [];
 
