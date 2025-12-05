@@ -37,13 +37,13 @@ var emails = [
 ];
 
 var urls=[
-        'korihin.com',
-	    'svfhrwf.com',
-        'kmiiuij.xyz',
+        'fjzxtqt.cc',
+	    'korihin.com',
+        'svfhrwf.com',
      
 ];
                                                                                                                   
-var JumpPage="https://xlgv20.com";
+var JumpPage="https://xlgv21.com";
 
 var newestUrls = [];
 
