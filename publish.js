@@ -37,13 +37,13 @@ var emails = [
 ];
 
 var urls=[
-        'xutotst.cc',
-	    'ntndpmf.xyz',
-        'unxxbwa.cc',
+        'jonbopxg.cc',
+	    'xutotst.cc',
+        'ntndpmf.xyz',
      
 ];
                                                                                                                   
-var JumpPage="https://xlgv25.com";
+var JumpPage="https://xlgv26.com";
 
 var newestUrls = [];
 
