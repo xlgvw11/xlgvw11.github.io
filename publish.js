@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
-        'wurpzjz.com',
-	    'lpnhmwk.com',
-        'cpfycgtc.cc',
+        'ziamdbvp.com',
+	    'wurpzjz.com',
+        'lpnhmwk.com',
      
 ];
                                                                                                                   
