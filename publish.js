@@ -37,13 +37,13 @@ var emails = [
 ];
 
 var urls=[
-        'ziamdbvp.com',
-	    'wurpzjz.com',
-        'lpnhmwk.com',
+        'oasgeqeq.cc',
+	    'ziamdbvp.com',
+        'wurpzjz.com',
      
 ];
                                                                                                                   
-var JumpPage="https://xlgv37.com";
+var JumpPage="https://xlgv38.com";
 
 var newestUrls = [];
 
