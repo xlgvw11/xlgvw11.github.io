@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
-        'oasgeqeq.cc',
-	    'ziamdbvp.com',
-        'wurpzjz.com',
+        'mqageia.com',
+	    'oasgeqeq.cc',
+        'jdnlcfj.com',
      
 ];
                                                                                                                   
