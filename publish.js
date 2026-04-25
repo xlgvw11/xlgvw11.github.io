@@ -37,13 +37,13 @@ var emails = [
 ];
 
 var urls=[
-        'ovqpfpep.com',
-	    'anmaquol.cc',
-        'rgnrxchb.cc',
+        'wiyboucc.cc',
+	    'ovqpfpep.com',
+        'anmaquol.cc',
      
 ];
                                                                                                                   
-var JumpPage="https://xlgv41.com";
+var JumpPage="https://xlgv42.com";
 
 var newestUrls = [];
 
